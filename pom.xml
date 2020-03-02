@@ -9,7 +9,7 @@
 	<url>http://maven.apache.org</url>
 	
 	
-	
+	<!--Demoongithub-->
 	
 	<properties>
 		<docker.image.prefix>kammana</docker.image.prefix>
